@@ -1,4 +1,4 @@
-# R-Studio-and-Power-BI-Project
+# R Studio and Power BI Project
 
 ## Overview
 A project utilising R Studio and Power BI to import a dataset of movies, clean it of missing values, and perform an initial statistical analysis, before exporting it to Power BI to create a dashboard for a client's request. This assignment tested my coding abilities, by utilising R Studio for data processing and cleaning, as well as dashboard creation via Power BI. Marked Grade: Distinction
