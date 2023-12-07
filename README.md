@@ -39,6 +39,6 @@ All of these have been included, alongside their requirement of developing the d
 
 ![Rayan Arshed - Dashboard Screenshot](https://github.com/Rayan-Arshed/R-Studio-and-Power-BI-Project/assets/95011650/47fbb79f-3e68-4079-b8fd-1828fa937480)
 
-### Dashboard when a filter is selected via the visualizations
+### Dashboard when a filter is selected via the visualizations, in this case, filtering by genre: Drama
 
 ![Rayan Arshed - Dashboard Screenshot 2](https://github.com/Rayan-Arshed/R-Studio-and-Power-BI-Project/assets/95011650/4e6eae71-7ea6-44c0-a5fc-a7f42ff409be)
