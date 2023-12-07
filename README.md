@@ -5,7 +5,7 @@ A project utilising R Studio and Power BI to import a dataset of movies, clean i
 
 ## Project Goals
 The goal of this project was to refine my R Studio abilities and my coding skills with a new language, ensuring that I can use it to clean the dataset and remove null values, as well as to test my ability to create dashboards for clients, taking into consideration their requirements for data presented once again as well as a relevant colour scheme. The client reuquested to know about these key points:
-- THe average Rotten Tomatoes ratings for each genre
+- The average Rotten Tomatoes ratings for each genre
 - The number of movies produiced per year
 - The audience score for each film
 - The profitability per studio
