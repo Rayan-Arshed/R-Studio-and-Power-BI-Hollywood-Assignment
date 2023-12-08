@@ -32,8 +32,9 @@ All of these have been included, alongside their requirement of developing the d
 - Cleaned dataset
 - Dashboard as a .pbix file
 - Extra write up notes in a text file containing extra information about my process
-- Screenshots of dashboard below
 - Data Source: Hollywood's Most Profitable Stories - https://public.tableau.com/app/learn/sample-data 
+- Screenshots of dashboard below
+
 
 ## Additional Screenshots and Dashboard
 ### Overview of dashboard
