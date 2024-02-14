@@ -1,0 +1,14 @@
+Important to note, after cleaning there still was a missing value in the data
+set for the film 'No Reservations' for its lead studio, which having looked up
+was also Warner Bros, so the data has been filled in manually instead of being
+removed as the rest of the entry was valid, while the other missing values were 
+related to scores and calculations such as profitability. 
+
+Box Plot in my Dashboard was created via Box and Whisker Plot by MAQ Software
+within Power BI's extensions for more visualisations.
+
+Dashboard can be filtered and drilled down by using the selections from the 
+visualizations, allowing the client to drill down specific areas like
+genre or studio, and the film filter exists to drill down even further
+to specific movies, if they wish to. Everything is interactive and 
+allows the user to find the specific information they desire.
